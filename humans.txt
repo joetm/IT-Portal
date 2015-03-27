@@ -1,0 +1,6 @@
+/* humanstxt.org */
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: BackboneJS, KnockoutJS, RequireJS, jQuery, Semantic-UI
+  Software: TextPad32, Less, Gulp
