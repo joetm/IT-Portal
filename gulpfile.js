@@ -32,11 +32,11 @@ gulp.task('compressjs', function() {
 //concat
 gulp.task('concatjs', function() {
     return gulp.src([
-        'dist/jquery.min.js',
-        //'dist/knockout-3.3.0.js',
-        'dist/underscore-min.js',
-        'dist/backbone-min.js',
-        'dist/semantic.min.js', //ALL
+        'js/jquery.min.js',
+        //'js/knockout-3.3.0.js',
+        'js/underscore-min.js',
+        'js/backbone-min.js',
+        'js/semantic.min.js', //ALL
         //'mustache.min.js',
         'app/*.min.js'
     ])
